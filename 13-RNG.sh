@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "Taisann Kham"
-echo "Hello, welcome to Taisann's RNG guessing game"
+echo "Britney Familia Espinosa"
+echo "Hello, welcome to Britney's RNG guessing game"
 echo "Please choose a number between 0 - 9"
 RANGE=10
 rand=0
