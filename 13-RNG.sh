@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "MASTER VERSION - Britney" 
 echo "Britney Familia Espinosa"
 echo "Hello, welcome to Britney's RNG guessing game"
 echo "Please choose a number between 0 - 9"
