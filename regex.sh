@@ -5,6 +5,8 @@
 
 . matches any character
 
+echo "ALT VERSION - Britney"
+
 # character classes
 /c.t/ matches 'cat', 'cbt', and 'czt'
 
